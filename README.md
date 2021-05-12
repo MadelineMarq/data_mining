@@ -9,7 +9,7 @@ As a Data Scientist one task I repeatedly have to conduct is data mining. Althou
 * [Selection](#selection)
 * [Pre-Processing](#pre-processing)
 * [Transformation](#transformation)
-* [Data Mining](#data mining)
+* [Data Mining](#datamining)
 * [Interpetation/Evaluation](#interpretation/evaluation)
 
 ## Instructions
